@@ -1,0 +1,5 @@
+In this project, the jar for Selenium Standalone server is imported into the project (under class off course). Without it
+  the Page Object pattern (Used here) or Page Factory will not work. In real-time, a dependency of the stand alone server is included in the
+  pom.xml file.
+  
+  ===><====
